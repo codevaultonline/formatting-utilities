@@ -6,7 +6,7 @@
 
     <groupId>online.codevault.utilities</groupId>
     <artifactId>formatting</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.1-SNAPSHOT</version>
 
     <dependencies>
 
